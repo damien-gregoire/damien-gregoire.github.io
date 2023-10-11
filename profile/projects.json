@@ -2,8 +2,8 @@
     "projects" : [
         {
             "image" : "images/projects/portfolio.png",
-            "title": "Site web portfolio",
-            "bodyText": "- Reprise d'un template existant\n- Création de nouveaux composants réactifs\n- Ajustements du layout\n- Débogage du routage et du fadin/fadeout\n- Intégration des nouveaux contenus\n- Déploiement",
+            "title": "Site web portfolio responsive",
+            "bodyText": "- Reprise d'un template existant\n- Création de nouveaux composants réactifs\n- Ajustements du layout\n- Débogage du routage et du fadin/fadeout\n- Ajustement de la responsivité\n- Intégration des nouveaux contenus\n- Déploiement",
             "tags" : [
                 "Html",
                 "Css",
