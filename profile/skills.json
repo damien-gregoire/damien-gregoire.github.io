@@ -68,7 +68,7 @@
                     "value": 8
                 },
                 {
-                    "label": "Deboggage",
+                    "label": "Débogage",
                     "value": 8.5
                 },
                 {
@@ -142,10 +142,6 @@
                     "value": 8
                 },
                 {
-                    "label": ".ASP NET Core",
-                    "value": 6.5
-                },
-                {
                     "label": "Laravel",
                     "value": 8.5
                 },
@@ -154,7 +150,7 @@
                     "value": 8
                 },
                 {
-                    "label": "Spring boot",
+                    "label": "Spring Boot",
                     "value": 7.5
                 },
                 {
