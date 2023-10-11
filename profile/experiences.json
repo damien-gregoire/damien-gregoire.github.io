@@ -1,0 +1,40 @@
+{
+    "experiences": [
+        {
+            "title": "Co-fondateur de Virdys / Ingénieur développeur logiciel & full-stack / SysOps",
+            "subtitle": "Montpellier",
+            "workDescription": [
+                "Rédaction de documents techniques (spécifications, cir, cii, etc...)",
+                "Conception & implémentation d'applications 3D innovantes",
+                "Travail d'ingénierie logiciel",
+                "Développement d'applications full-stack",
+                "Utilisation des stacks frontend Unity C#, Vanilla Js, ECMAScript, Vue JS",
+                "Utilisation des stacks backend Vanilla PHP, Symfony, Laravel", 
+                "Travail sur les environnements Desktop, Web, Mobile et Cloud",
+                "Responsable du système d'information en LAN et WAN",
+                "Administratration des bases de données MariaDB / PostgreSQL / MongoDB ",
+                "Administration des serveurs OVH Cloud et Azure",
+                "Déploiment des applications",
+                "Conception et mise en place de webservices",
+                "Support technique",
+                "Bras droit du Lead Developpeur",
+                "Partipation au recrutement",
+                "Suivi de projet client",
+                "Responsable du budget (serveurs, matériel informatique, logiciels)"
+            ],
+            "dateText": "04/2012 – 03/2023"
+        },
+        {
+            "title": "Co-porteur du projet Virdys / Responsable technique / Ingénieur développement logiciel & full-stack",
+            "subtitle": "Innov'up, Nîmes",
+            "workDescription": [
+                "Rédaction de documents techniques",
+                "Présentation du projet à des financeurs, des acteurs de l'innovation et des particuliers",
+                "Participation aux salons de l'innovation (en tant qu'exposant ou visiteur)",
+                "Recrutement des développeurs et d'infographistes",
+                "Conception & implémentation d'applications 3D innovantes"
+            ],
+            "dateText": "04/2010 – 03/2012"
+        }
+    ]
+}

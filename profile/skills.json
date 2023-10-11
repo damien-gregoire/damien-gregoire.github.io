@@ -1,0 +1,298 @@
+{
+    "intro": "Même si je n’ai pas pu pratiquer tous les langages, frameworks et autres outils dans des cas d’utilisation réels, j’ai pu réaliser des projets reprenant la plupart de leurs concepts et étudier leurs avantages et inconvénients. Je peux donc si besoin m’adapter rapidement à un outil plutôt qu’un autre.\n\n Au fil des années, j’ai pris goût à vouloir parfaire mes compétences dans tout ce qui concerne l’ingénierie d’application. Aussi bien les soft skills que les autres compétences suivantes (notation : 7 à 10):",
+    "skills": [{
+     
+            "title": "Soft skills",
+            "items" : [
+     
+                {
+                    "label": "Autonomie",
+                    "value": 8.5
+                },
+                {
+                    "label": "Adaptation",
+                    "value": 9
+                },
+                {
+                    "label": "Rés. de pbs complex.",
+                    "value": 8
+                },
+                {
+                    "label": "Esprit critique",
+                    "value": 8.5
+                },
+                {
+                    "label": "Créativité",
+                    "value": 7.5
+                },
+                {
+                    "label": "Management",
+                    "value": 7
+                },
+                {
+                    "label": "Esprit d’équipe",
+                    "value": 9
+                },
+                {
+                    "label": "Intellig. émotion.",
+                    "value": 7.5
+                },
+                {
+                    "label": "Prise de décision",
+                    "value": 7.5
+                },
+                {
+                    "label": "Sens du service",
+                    "value": 9
+                },
+                {
+                    "label": "Flexibilité ",
+                    "value": 7.5
+                }
+            ]
+        },
+        {
+            "title": "Compétences techniques globales",
+            "items" : [
+     
+                {
+                    "label": "Frontend",
+                    "value": 7.5
+                },
+                {
+                    "label": "Backend",
+                    "value": 8
+                },
+                {
+                    "label": "Tests",
+                    "value": 8
+                },
+                {
+                    "label": "Deboggage",
+                    "value": 8.5
+                },
+                {
+                    "label": "Base de données",
+                    "value": 8
+                },
+                {
+                    "label": "DevOps",
+                    "value": 7.5
+                },
+                {
+                    "label": "Sécurité",
+                    "value": 7
+                },
+                {
+                    "label": "Architecture logicielle",
+                    "value": 8
+                }
+            ]
+        },
+        {
+     
+            "title": "Languages de programmation",
+            "items" : [
+     
+                {
+                    "label": "Bash",
+                    "value": 8
+                },
+                {
+                    "label": "Html",
+                    "value": 8
+                },
+                {
+                    "label": "CSS",
+                    "value": 7
+                },
+                {
+                    "label": "Javascript",
+                    "value": 8
+                },
+                {
+                    "label": "Python",
+                    "value": 8
+                },
+                {
+                    "label": "Java",
+                    "value": 8
+                },
+                {
+                    "label": "Php",
+                    "value": 8.5
+                },
+                {
+                    "label": "C#",
+                    "value": 8.5
+                }
+            ]
+        },
+        {
+     
+            "title": "Frameworks ",
+            "items" : [
+     
+                {
+                    "label": "FastApi",
+                    "value": 8
+                },
+                {
+                    "label": "NET Core",
+                    "value": 8
+                },
+                {
+                    "label": ".ASP NET Core",
+                    "value": 6.5
+                },
+                {
+                    "label": "Laravel",
+                    "value": 8.5
+                },
+                {
+                    "label": "Symfony",
+                    "value": 8
+                },
+                {
+                    "label": "Spring boot",
+                    "value": 7.5
+                },
+                {
+                    "label": "React Js ",
+                    "value": 7.5
+                },
+                {
+                    "label": "Vue Js",
+                    "value": 8
+                },
+                {
+                    "label": "Angular ",
+                    "value": 7.5
+                },
+                {
+                    "label": "Node JS",
+                    "value": 7.5
+                }
+            ]
+        },
+        {
+     
+            "title": "Systèmes d'exploitation",
+            "items" : [
+     
+                {
+                    "label": "Windows",
+                    "value": 8.5
+                },
+                {
+                    "label": "Linux",
+                    "value": 8.2
+                },
+                {
+                    "label": "Mac OS X",
+                    "value": 7.7
+                },
+                {
+                    "label": "Android",
+                    "value": 8
+                },
+                {
+                    "label": "iOs",
+                    "value": 7.2
+                }
+            ]
+        },
+        {
+     
+            "title": "Plateformes cloud",
+            "items" : [
+     
+                {
+                    "label": "Ovh Cloud",
+                    "value": 8.5
+                },
+                {
+                    "label": "Azure",
+                    "value": 7.5
+                },
+                {
+                    "label": "AWS",
+                    "value": 8
+                }
+            ]
+        },
+        {
+     
+            "title": "Bases de données",
+            "items" : [
+     
+                {
+                    "label": "MySQL / MariaDB",
+                    "value": 9
+                },
+                {
+                    "label": "PostgreSQL",
+                    "value": 9
+                },
+                {
+                    "label": "Sql Server",
+                    "value": 6.5
+                },
+                {
+                    "label": "MongoDB",
+                    "value": 8
+                },
+                {
+                    "label": "Neo4J",
+                    "value": 7
+                }
+            ]
+        },
+        {
+     
+            "title": "DevOps",
+            "items" : [
+                {
+                    "label": "Docker",
+                    "value": 9
+                },
+                {
+                    "label": "Kubernetes",
+                    "value": 7.5
+                },
+                {
+                    "label": "AWS EKS",
+                    "value": 7.5
+                },
+                {
+                    "label": "Git Ops",
+                    "value": 7.5
+                },
+                {
+                    "label": "Terraform",
+                    "value": 7.5
+                },
+                {
+                    "label": "Ansible",
+                    "value": 7.5
+                },
+                {
+                    "label": "AWS Cloud Watch",
+                    "value": 8
+                },
+                {
+                    "label": "Grafana",
+                    "value": 7
+                },
+                {
+                    "label": "Prometheus",
+                    "value": 7.2
+                },
+                {
+                    "label": "Datadog",
+                    "value": 7.5
+                }
+            ]
+        }                            
+    ]
+}

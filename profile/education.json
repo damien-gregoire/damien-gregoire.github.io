@@ -1,0 +1,31 @@
+{
+    "education":[
+        {
+            "title": "Mai 2023 - Août 2023",
+            "cardTitle": "Titre Ingénieur DevOps",
+            "cardSubtitle":"DataScientest, Paris",
+            "cardDetailedText": "Python, Orchestration & Conteneurisation, Cloud AWS, CI / CD, Automatisation, Monitoring",
+            "icon" : {
+                "src": "images/education/dst-logo.svg"
+            }
+        },
+        {
+            "title": "Sep 2007 - Juin 2009",
+            "cardTitle": "Master Informatique",
+            "cardSubtitle":"Université des Sciences et Techniques, Montpellier",
+            "cardDetailedText": "Génie logiciel, Systèmes et réseaux, 3D, IA",
+            "icon" : {
+                "src": "images/education/um2.png"
+            }
+        },
+        {
+            "title": "Sep 2004 - Juin 2007",
+            "cardTitle": "Licence Informatique",
+            "cardSubtitle":"Université des Sciences et Techniques, Montpellier",
+            "cardDetailedText": "Algorithmique, Programmation",
+            "icon" : {
+                "src": "images/education/um2.png"
+            }
+        }
+    ]
+}
