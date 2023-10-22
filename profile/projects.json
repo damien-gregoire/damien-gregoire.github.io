@@ -43,7 +43,7 @@
         {
             "image" : "images/projects/calculateur_terrasse.png",
             "title": "Terrassteel -  Configurateur de terrasse & Plateforme de gestion",
-            "bodyText": "- Création des composants réactifs\n- Conception / Développement d'une api rest\n- Conception / implémentation de la base de données\n- Développement des fonctions d'exportation (pdf, mail, excel, etc...)\n- Estimation du budget\n- Interconnexion avec les produits Prestashop\n - Plateforme de gestion des projets, prospects et commerciaux.\n - Administration etdéploiement\n - Suivi projet \n - Tests et débogage",
+            "bodyText": "- Création des composants réactifs\n- Conception / Développement d'une api rest\n- Conception / implémentation de la base de données\n- Développement des fonctions d'exportation (pdf, mail, excel, etc.)\n- Estimation du budget\n- Interconnexion avec les produits Prestashop\n - Réalisation d'une plateforme de gestion des projets, prospects et commerciaux.\n - Administration et déploiement\n - Suivi projet \n - Tests et débogage",
             "links": [
                 {
                     "text": "Live",
@@ -66,7 +66,7 @@
         
         {
             "image" : "images/projects/virdys_collaborate.png",
-            "title": "Virdys Collaborate - Solution logicielle de création de showroom collaboratif et interactif en 3D",
+            "title": "Virdys Collaborate - Solution logicielle de création de showroom collaboratif et interactif en 3D (pouvant être en réalité virtuelle)",
             "bodyText": "- Plateforme web de configuration du showroom\n- Conception / Développement d'un webservice d'initialisation des instances serveurs distantes \n- Conception et implémentation d'un webservice de déploiement des sessions sur AWS CloudFront\n- Developpement d'un module de gestion des invitations des participants\n- Tests et déploiement",
             "links": [
                 {
@@ -78,7 +78,7 @@
                     "href": "https://www.youtube.com/watch?v=2rEHlHQ5RyU"
                 }
             ],
-            "comment" : "- Employeur : Virdys\n- Clients : SNCF Réseaux, CGI, Alcatel Lucent, etc...",
+            "comment" : "- Exemples : présentation de plaquettes publicitaires, interaction avec des produits, formation interactive, discussion, etc.\n- Employeur : Virdys\n- Clients : SNCF Réseaux, CGI, Alcatel Lucent, etc.",
             "tags" : [
                 
                 "Unity",
@@ -112,7 +112,7 @@
                     "href": "https://www.youtube.com/watch?v=pZ8V3pVTFlw&t=44s"
                 }
             ],
-            "comment" : "- Employeur : Virdys\n- Clients : SNCF Réseaux, GRDF, etc...",
+            "comment" : "- Exemples : intervention technique, sensibilisation,... \n- Employeur : Virdys\n- Clients : SNCF Réseaux, GRDF, Generali, etc.",
             "tags" : [
                 
                 "Unity",
@@ -143,7 +143,7 @@
                     "href": "https://www.youtube.com/watch?v=EFFjNT9NWqI"
                 }
             ],
-            "comment" : "- Employeur : Virdys\n- Clients : SNCF Réseaux",
+            "comment" : "- Exemples : création d'environnement, création d'un produit interactif (décomposition, annotations,...) \n- Employeur : Virdys\n- Clients : SNCF Réseaux",
             "tags" : [
                 
                 "Unity",
@@ -163,7 +163,7 @@
         {
             "image" : "images/projects/virdys_animate.png",
             "title": "Virdys Animate - Solution logicielle pour créer facilement des scènes et vidéos 2D / 360° à partir de la 3D en temps réel",
-            "bodyText": "- Authentification\n - Intégration UI / UX\n - Création d'une api d'accès à une base de données d'assets\n-  Conception / Implémentation de fonctions d'édition de comportement, assets, timelines, etc... \n- Développement de fonctions d'export et de gestion des contenus\n - Conception et implémentation d'un module de tests et d'implémentation des assets 3D par l'équipe d'infographie\n - Tests et débogage\n - Déploiement des assets et de l'application",
+            "bodyText": "- Authentification\n - Intégration UI / UX\n - Création d'une api d'accès à une base de données d'assets\n-  Conception / Implémentation de fonctions d'édition de comportement, assets, timelines, etc. \n- Développement de fonctions d'export et de gestion des contenus\n - Conception et implémentation d'un module de tests et d'implémentation des assets 3D par l'équipe d'infographie\n - Tests et débogage\n - Déploiement des assets et de l'application",
             "links": [
                 {
                     "text": "Vidéo de présentation",
@@ -175,7 +175,7 @@
                 }
                 
             ],
-            "comment" : "- Employeur : Virdys\n- Clients : La Defense, M6, France télévisions, Eiffage infrastructure, SNCF Réseaux, GRDF, Atos, etc...",
+            "comment" : "- Exemples : reconstitution d'événements (attentats, incendies, interventions militaires, création de scénarios de formation / sensibilitation, présentation d'une technologie,... \n- Employeur : Virdys\n- Clients : La Defense, M6, France télévisions, Eiffage infrastructure, SNCF Réseaux, GRDF, Atos, etc.",
             "tags" : [
                 "Unity",
                 "C#",
@@ -192,37 +192,6 @@
             ]
         },
         {
-            "image" : "images/projects/virdys_atl.png",
-            "title": "Virdys ATL - Solution de création avancée de contenu interactif pour le réutiliser dans la suite logicielle",
-            "bodyText": "- Mise à jour de l'api d'édition\n- Mise à jour du style\n- Refactoring du code\n- Optimisation des performances\n- Mise à jour de la gestion de la sauvegarde et du stockage\n",
-            "links": [
-                {
-                    "text": "Vidéo 1",
-                    "href": "https://www.youtube.com/watch?v=TpHpIXLcWpU"
-                },
-                {
-                    "text": "Vidéo 2",
-                    "href": "https://www.youtube.com/watch?v=EFFjNT9NWqI"
-                }
-            ],
-            "comment" : "- Employeur : Virdys\n- Clients : SNCF Réseaux, GRDF",
-            "tags" : [
-                
-                "Unity",
-                "C#",
-                ".NET Core",
-                "PHP",
-                "Symfony",
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "MariaDB",
-                "Desktop",
-                "Android",
-                "Azure"
-            ]
-        },
-        {
             "image" : "images/projects/virdys_manage.png",
             "title": "Virdys Manage - Plateforme web de gestion des contenus de la suite logicielle (Virdys Suite)",
             "bodyText": "- Héritage d'un framework legacy\n- Maintenance et évolutions\n- Gestion des demandes de support\n - Gestion des fonctions d'accès aux contenus privés\n - Tests, Débogage, Refactoring, stabilisation\n - Déploiement",
@@ -232,7 +201,7 @@
                     "href": "https://www.youtube.com/watch?v=rmGWJGWczxs"
                 }
             ],
-            "comment" : "- Employeur : Virdys\n- Clients : Eiffage, SNCF Réseaux, GRDF...",
+            "comment" : "- Exemples : gestion des licences, accès aux interfaces en ligne de la suite logicielle, accès à l'inventaire des contenus,... \n- Employeur : Virdys\n- Clients : Eiffage, SNCF Réseaux, GRDF...",
             "tags" : [
                 "PHP",
                 "Symfony",
@@ -262,7 +231,7 @@
                     "href": "https://www.youtube.com/watch?v=TcCwu1eu1B0"
                 }
             ],
-            "comment" : "- Employeur : Virdys\n- Clients : Technal, EMD (Kleuster), Eco Campers, Ephemere Square",
+            "comment" : "- Exemples : configurateur de vannes, configurateur de pergolas, configurateur d'emplacements éphémères, etc. \n- Employeur : Virdys\n- Clients : Technal, EMD (Kleuster), Eco Campers, Ephemere Square",
             "tags" : [
                 "PHP",
                 "HTML",
@@ -296,7 +265,7 @@
                 }
 
             ],
-            "comment" : "- Employeur : Virdys\n- Clients : Technal Batimat, La région Occitanie, Aaxia, Virdys",
+            "comment" : "- Exemples : présentation d'un showroom ou pratimoine régional, expérience dans une galerie d'art, etc. \n- Employeur : Virdys\n- Clients : Technal Batimat, La région Occitanie, Aaxia, Virdys",
             "tags" : [
                 "Mobile",
                 "Android",
@@ -309,7 +278,7 @@
         {
             "image" : "images/projects/virdys_studio.png",
             "title": "Virdys Studio - Exemples de projets divers réalisés",
-            "bodyText": "- Intégration d'un catalogue interactif\n- Développement d'expérience RA, VR, XR \n- Intégration de contenus 2D /3D\n - Intégration UI/UX \n- Création des animations d'intéraction 2D / 3D\n- Déploiement privé / public\n- Suivi projet",
+            "bodyText": "- Intégration d'un catalogue interactif\n- Développement d'expérience RA, VR, XR \n- Intégration de contenus 2D /3D\n - Intégration UI/UX \n- Création des animations d'interaction 2D / 3D\n- Déploiement privé / public\n- Suivi projet",
             "links": [ 
                 {
                     "text": "Vidéo département du nord",
@@ -329,7 +298,7 @@
                 }
 
             ],
-            "comment" : "- Employeur : Virdys\n- Clients : Département du Nord, Enedis, Bausch And Lomb, Comwatt, MBI, Alcatel...",
+            "comment" : "- Exemples : showroom d'événement, showroom de démonstration produit, simulation d'intervention technique sur site, catalogue de produits médicaux, etc.\n - Employeur : Virdys\n- Clients : Département du Nord, Enedis, Bausch And Lomb, Comwatt, MBI, Alcatel...",
             "tags" : [
                 "Mobile",
                 "Android",
